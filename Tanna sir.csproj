@@ -63,8 +63,10 @@
   <ItemGroup>
     <Compile Include="Eightth patten.cs" />
     <Compile Include="eleventh patten.cs" />
+    <Compile Include="Employee.cs" />
     <Compile Include="Fifth patten.cs" />
     <Compile Include="Forth patten.cs" />
+    <Compile Include="MethodOverloadingDemo.cs" />
     <Compile Include="nineth patten.cs" />
     <Compile Include="OutDemo.cs" />
     <Compile Include="Program.cs" />
@@ -72,6 +74,7 @@
     <Compile Include="Secont patten.cs" />
     <Compile Include="seventh patten.cs" />
     <Compile Include="sixth patten.cs" />
+    <Compile Include="SwapMethod.cs" />
     <Compile Include="tenth patten.cs" />
     <Compile Include="Third patten.cs" />
     <Compile Include="swap.cs" />
